@@ -3,10 +3,10 @@ import { PenLine } from 'lucide-react'
 
 const experiences = [
     {
-        role: "Android Developer Intern",
-        company: "Skillcraft Technology",
+        role: "Research Analyst Intern",
+        company: "Cape Start",
         period: "Aug 2025 - Present",
-        desc: "Built some cool apps using Kotlin and XML. Learned a lot about UI optimization!"
+        desc: "Researched tech trends and helped with data modeling. First step into the professional world!"
     },
     {
         role: "Data Science Intern",
@@ -15,10 +15,10 @@ const experiences = [
         desc: "Dived into datasets, used Python and SQL to find patterns. Visualized everything in Tableau."
     },
     {
-        role: "Research Analyst Intern",
-        company: "Cape Start",
+        role: "Android Developer Intern",
+        company: "Skillcraft Technology",
         period: "2023",
-        desc: "Researched tech trends and helped with data modeling. First step into the professional world!"
+        desc: "Built some cool apps using Kotlin and XML. Learned a lot about UI optimization!"
     }
 ]
 
